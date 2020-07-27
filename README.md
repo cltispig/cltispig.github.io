@@ -7,7 +7,7 @@
 		<script>
 			function myfuntian(){
 				x=document.getElementById("demo");
-				x.innerHTML="hello js";
+				x.innerHTML="点了你就是帅b";
 			}
 		</script>
 	</head>
