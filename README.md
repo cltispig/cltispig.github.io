@@ -1,4 +1,3 @@
-# cltispig.github.io
 <!DOCTYPE html>
 <html>
 	<head>
@@ -14,5 +13,6 @@
 	<body>
 		<p id="demo">这是一个脚本文件</p>
 		<button type="button" onclick="myfuntian()">点击这里</button>
+		<button type="button" onclick="alert('？？？？')">再点一个</button>
 	</body>
 </html>
